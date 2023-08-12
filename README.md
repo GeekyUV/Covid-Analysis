@@ -29,4 +29,4 @@ Before you begin, ensure you have access to the SQL database containing the COVI
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/COVID-19-Data-Analysis.git
+git clone https://github.com/your-username/Covid-Analysis.git
